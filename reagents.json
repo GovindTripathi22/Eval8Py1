@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Ethanol",
+    "formula": "C2H5OH",
+    "category": "solvent",
+    "quantity_ml": 40,
+    "expiry": "2027-03-01",
+    "storage": "fridge",
+    "hazards": ["flammable"]
+  },
+  {
+    "name": "Hydrochloric Acid",
+    "formula": "HCl",
+    "category": "acid",
+    "quantity_ml": 500,
+    "expiry": "2027-06-30",
+    "storage": "cabinet",
+    "hazards": ["corrosive"]
+  },
+  {
+    "name": "Acetone",
+    "formula": "C3H6O",
+    "category": "solvent",
+    "quantity_ml": 250,
+    "expiry": "2027-01-15",
+    "storage": "shelf",
+    "hazards": ["flammable", "irritant"]
+  },
+  {
+    "name": "Sodium hydroxide solution",
+    "formula": "NaOH",
+    "category": "base",
+    "quantity_ml": 30,
+    "expiry": "2026-09-30",
+    "storage": "shelf",
+    "hazards": ["corrosive"]
+  },
+  {
+    "name": "Copper(II) sulfate",
+    "formula": "CuSO4",
+    "category": "salt",
+    "quantity_ml": 800,
+    "expiry": "2028-01-01",
+    "storage": "shelf",
+    "hazards": ["irritant"]
+  },
+  {
+    "name": "Hexane",
+    "formula": "C6H14",
+    "category": "solvent",
+    "quantity_ml": 50,
+    "expiry": "2027-05-01",
+    "storage": "flammables cabinet",
+    "hazards": ["flammable"]
+  },
+  {
+    "name": "Silver nitrate",
+    "formula": "AgNO3",
+    "category": "salt",
+    "quantity_ml": 25.5,
+    "expiry": "2026-10-01",
+    "storage": "fridge",
+    "hazards": ["oxidizer", "corrosive"]
+  },
+{
+
+    "name": "Phenolphthalein indicator",
+    "formula": "C20H1404",
+    "category": "indicator",
+    "quantity_ml": 100,
+    "expiry": "2026-10-31",
+    "storage": "shelf",
+    "hazards": []
+},
+{
+    "name": "Glacial acetic acid",
+    "formula": "CH3COOH",
+    "category": "acid",
+    "quantity_ml": 45,
+    "expiry": "2027-08-01",
+    "storage": "shelf",
+    "hazards": ["flammable", "corrosive"]
+
+},
+{
+    "name": "Mystery bottle",
+    "formula": "?",
+    "category": "unknown",
+    "quantity_ml": 10,
+    "storage": "shelf",
+    "hazards": []
+},
+  {
+    "name": "Methanol",
+    "formula": "CH3OH",
+    "category": "solvent",
+    "quantity_ml": "lots",
+    "expiry": "2027-02-01",
+    "storage": "flammables_cabinet",     
+    "hazards": ["flammable", "toxic"]
+  }
+]
